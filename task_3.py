@@ -1,6 +1,6 @@
 import random
 
-
+#comment
 def game(a, v):
     if a == 1:
         p = int(input())
